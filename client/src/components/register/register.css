@@ -1,0 +1,42 @@
+#register{
+    width: 416px;
+    height: 479px;
+    
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+#btn-regis{
+    width: 350px;
+    height: 50px;
+    left: 33px;
+    top: 340px;
+    
+    background: #C32424;
+    border-radius: 10px;
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+#alredy{
+    width: 279px;
+    height: 22px;
+    left: 68px;
+    top: 410px;
+    
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}

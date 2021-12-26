@@ -1,0 +1,65 @@
+.formfund{
+    position: absolute;
+}
+.formfund h1{
+    font-family: Product-sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    margin-top:164px;
+    margin-left:197px;
+}
+#title{
+  
+    width: 1083px;
+    height: 50px;
+    margin-left: 197px;
+    margin-top:70px;
+    
+    background: rgba(188, 188, 188, 0.25);
+    border: 2px solid #BCBCBC;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+#attach{
+    margin-left: 197px;
+    margin-top: 24px;
+    color: white;
+    font-weight: bold;
+    width: 173px;
+    height: 35px;
+    background: #C32424;
+    border-radius: 10px;
+}
+#goals{
+    width: 1083px;
+    height: 50px;
+    margin-left: 197px;  
+    margin-top:24px;  
+    background: rgba(188, 188, 188, 0.25);
+    border: 2px solid #BCBCBC;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.formfund textarea{
+    width: 1083px;
+    height: 237px;
+    margin-left: 197px;
+    margin-top: 24px;
+    
+    background: rgba(188, 188, 188, 0.25);
+    border: 2px solid #BCBCBC;
+    box-sizing: border-box;
+    border-radius: 5p
+}
+#btn-public{
+    
+    width: 412px;
+    height: 45px;
+    margin-left: 868px;
+    margin-top: 83px;
+    color: white;
+    font-weight: bold;
+    background: #C32424;
+    border-radius: 10px;
+}

@@ -1,0 +1,260 @@
+body{
+    background-color: #E8E8E8 !important;
+    height: 1961px;
+}
+.landing{
+position: static;
+width: 1519px;
+height: 703px;
+left: 0px;
+top: 0px;
+
+background: #C42424;
+}
+.landing h2{
+position: absolute;
+width: 717px;
+height: 174px;
+left: 165px;
+top: 151px;
+
+font-family: 'Product-sans';
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 58px;
+display: flex;
+align-items: center;
+
+color: #E8E8E8;
+}
+.landing p{
+    position: absolute;
+width: 545px;
+height: 100px;
+left: 165px;
+top: 361px;
+
+font-family: Avenir;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+color: #E8E8E8;
+}
+.landing button{
+    position: absolute;
+width: 177px;
+height: 40px;
+left: 165px;
+top: 508px;
+
+background: #E8E8E8;
+border-radius: 10px;
+
+font-family: Avenir;
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 19px;
+
+color: #C32424;
+
+}
+.gbr1{
+    position: absolute;
+width: 515px;
+height: 640px;
+left: 925px;
+top: 151px;
+}
+.gbr2{
+    position: absolute;
+width: 423px;
+height: 659px;
+left: 0px;
+top: 584px;
+
+}
+.landing2{
+    position: absolute;
+width: 717px;
+height: 174px;
+left: 529px;
+top: 851px;
+
+font-family: Product Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 58px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+.landing3{
+    position: absolute;
+width: 314px;
+height: 175px;
+left: 529px;
+top: 1068px;
+
+font-family: Avenir;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+color: #616161;
+}
+.landing4{
+    position: absolute;
+width: 357px;
+height: 100px;
+left: 903px;
+top: 1068px;
+
+font-family: Avenir;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+color: #616161;
+}
+
+.donate-now h1 {
+ position: absolute;
+width: 203px;
+height: 44px;
+left: 618px;
+top: 1345px;
+
+font-family: Product-sans;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #C32424;
+}
+.donate-now div{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 380px;
+    flex-wrap: wrap;
+}
+.donate{
+    display: flex;
+    flex-direction: row;
+    width: 330px;
+    background-color: white;
+    height: 466px;
+    }
+.donate img{
+    position: absolute;
+    width: 330px;
+    height: 252px;
+    top: 1438px;
+}
+.donate h3{
+    position: absolute;
+width: 263px;
+height: 56px;
+top: 1708px;
+margin-left:-25px;
+font-family: Product-sans;
+font-style: normal;
+font-weight: bold;
+font-size: 23px;
+line-height: 28px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+}
+.donate p{
+position: absolute;
+width: 284px;
+height: 38px;
+top: 1782px;
+
+font-family: Avenir;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+
+
+color: #616161;
+}
+.donate div {
+    display: flex;
+    flex-direction: row;
+    
+}
+.donate div label{
+    position: absolute;
+    width: 120px;
+    height: 19px;
+    top: 1868px;
+
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    margin-left: -480px;
+    
+    color: #000000;
+}
+.donate div button{
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    
+    top: 1862px;
+    margin-left: -130px;
+    background: #C32424;
+    border-radius: 10px;
+
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+}
+.progress{
+    position: static;
+    width: 283px;
+    height: 5px;
+    top: 1450px;
+    margin-left: 13px;
+    justify-content: left !important;
+}
+.progress .progress-bar{
+    background-color: #C32424 !important;
+    height: 5px;
+    margin-top: -1px;
+   
+
+}

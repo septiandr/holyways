@@ -1,0 +1,25 @@
+[{
+    "id":1,
+    "image":"Rectangle 7.png",
+    "title":"The Strength of a People. Power of Community",
+    "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "total":"200000000",
+    "totalNow":"25000000"
+},
+{
+    "id":2,
+    "image":"Rectangle 7 (1).png",
+    "title":"Empowering Communities Ending Poverty",
+    "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "total":"70000000",
+    "totalNow":"50000000"
+},
+{
+    "id":3,
+    "image":"Rectangle 7 (2).png",
+    "title":"Please our brothers in flores",
+    "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "total":"300000000",
+    "totalNow":"100000000"
+}
+]

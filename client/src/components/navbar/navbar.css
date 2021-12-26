@@ -1,0 +1,80 @@
+.nav{
+    background-color: #C32424;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1519px;
+}
+.nav img{
+    margin-top:19px;
+    margin-left: 100px;
+}
+.nav .buttonNav{
+    margin-top: 19px;
+    margin-right: 100px;
+}
+.nav .buttonNav .login{
+    color: #E8E8E8;
+    background-color: transparent;
+    border: none;
+    margin-right: 36px;
+    font-size: 14px;
+    font-family:Avenir ;
+    text-align: center;
+    align-items: center;
+}
+.nav .buttonNav .register{
+    background-color: #E8E8E8;
+    color: #C32424;
+    font-size: 14px;
+    font-family: Avenir;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+    border:none;
+}
+.dropdown #dropdown-basic{
+    width: 60px !important;
+    height: 60px !important;
+    margin-top: 12px;
+    margin-right: 100px;
+    border-radius: 50px;
+    background-color: white;
+    
+    box-sizing: border-box;  
+}
+#img-nav{
+    width: 60px !important;
+    height: 60px !important;
+    margin-top: -7px;
+    margin-left: -13px;
+    border-radius: 50px;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+}
+.dropdown-item {
+    
+    margin-top: 20px;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+
+    /* identical to box height */
+    
+    
+    color: #000000;
+ 
+}
+.dropdown-menu{
+    position:absolute;
+    width: 295px;
+    height: 291px;
+    text-align: left !important;
+    justify-content: flex-start !important;
+}
+.dropdown-item img{
+    margin-left: 20px;
+}

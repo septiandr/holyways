@@ -1,0 +1,82 @@
+.not-approved h3{
+    position: absolute;
+    width: 607px;
+    height: 44px;
+    left: 191px;
+    top: 1208px;
+    
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+.not-approved{
+    position: absolute;
+}
+.not-approved div{
+    margin-top: 1300px;
+    margin-left: 100px;
+}
+#card-not{
+    
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    width: 1045px ;
+    height: 101px ;
+    margin-top: 20px ;
+}
+.main{
+    width: 300px;
+    margin-top: -2px !important;
+}
+#btn-con{
+    width: 100px;
+    height: 30px;
+    margin-left: 500px;
+    margin-top: 38px;
+    background: #C32424;
+    border-radius: 10px;
+    color: white;
+    font-family: Product-sans;
+    font-weight: bold;
+}
+#approveModal {
+    position: relative;
+    width: 484px;
+    height: 577px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px
+}
+#approveModal label{
+    margin-top: 39px;
+    margin-left: 34px;
+    margin-bottom: 21px;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: Product-sans;
+}
+#approveModal img{
+    width: 417px;
+    height: 326px;
+    margin-left: 34px;
+    margin-bottom: 21px;
+}
+#btn-app{
+    width: 417px !important;
+    height: 45px !important;
+    background-color: #C32424 !important;
+    border-radius: 10px;
+    margin-left: 34px !important;
+    color: #FFFFFF;
+    font-family: Avenir;
+    font-weight: bold;
+}

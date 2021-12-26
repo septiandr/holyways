@@ -1,0 +1,66 @@
+.modal-dialog{
+    margin-top: 150px !important;
+}
+.modal-content {
+    width: 416px !important;
+    height: 408px;
+    border-radius: 10px;
+}
+#title-signIn{
+    position: absolute;
+    width: 92px;
+    height: 44px;
+    left: 33px;
+    top: 41px;
+    
+    font-family: Product-sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+form input{
+    width: 350px;
+    height: 50px;
+    margin-left: 33px;
+    background: rgba(210, 210, 210, 0.25);
+    border: 2px solid #BCBCBC;
+    box-sizing: border-box;
+    border-radius: 5px;   
+}
+form button{
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    left: 33px;
+    top: 275px;
+    
+    background: #C32424;
+    border-radius: 10px;
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+form p{
+    position: absolute;
+    width: 261px;
+    height: 22px;
+    left: 77px;
+    top: 346px;
+    
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+}

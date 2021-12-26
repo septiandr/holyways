@@ -1,0 +1,60 @@
+#modelShow .modal-content{
+    position: relative;
+    width: 484px !important;
+    height: 272px !important;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.modal-pay input{
+    position: absolute;
+    width: 417px;
+    height: 50px;
+    left: 1px;
+    top: 30px;
+    
+    background: rgba(188, 188, 188, 0.25);
+    border: 2px solid #BCBCBC;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.btn-attach{
+    position: absolute;
+    width: 159px;
+    height: 45px;
+    left: 34px;
+    top: 103px;
+    
+    background: #C32424;
+    border-radius: 10px;
+}
+.modal-pay p{
+    position: absolute;
+    width: 240px;
+    height: 15px;
+    left: 207px;
+    top: 118px;
+    
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #616161;
+}
+#btn{
+    position: absolute;
+    width: 417px;
+    height: 45px;
+    left: 34px;
+    top: 208px;
+    
+    background: #C32424;
+    border-radius: 10px;
+}

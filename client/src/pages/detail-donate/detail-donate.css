@@ -1,0 +1,223 @@
+.detail-container img{
+    position: absolute;
+    width: 550px;
+    height: 500px;
+    left: 191px;
+    top: 164px;
+}
+.detail-container h1{
+    position: absolute;
+    width: 500px;
+    left: 825px;
+    top: 164px;
+    
+    font-family: Product-sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    
+    color: #000000;
+}
+.totalNow{
+    position: absolute;
+  
+    height: 22px;
+    left: 825px;
+    top: 297px;
+    
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #C32424;
+}
+.gather{
+    position: absolute;
+    width: 88px;
+    height: 17px;
+    left: 961px;
+    top: 302px;
+    
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #616161
+}
+.total{
+    position: absolute;
+    left: 1057px;
+    top: 297px;
+    
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #616161;
+}
+.progres{
+    position: absolute;
+    width: 373px;
+    height: 5px;
+    left: 825px;
+    top: 337px;
+    
+    background: #C4C4C4;
+    border-radius: 50px;
+}
+.progres .progress-bar{
+    justify-content:flex-start !important;
+    background:#C32424;
+    text-align: left;
+    margin-left: -1px;
+}
+.des{
+    position: absolute;
+    width: 412px;
+    height: 153px;
+    left: 825px;
+    top: 414px;
+    
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    
+    color: #616161;
+}
+.detail-container button{
+    position: absolute;
+    width: 412px;
+    height: 45px;
+    left: 825px;
+    top: 607px;
+    
+    background: #C32424;
+    border-radius: 10px;
+
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    color: #FFFFFF;
+}
+.detail-container div h3{
+    position: absolute;
+    width: 320px;
+    height: 44px;
+    left: 191px;
+    top: 725px;
+    
+    font-family: Product-sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.detail-container .left{
+    position: absolute;
+    height: 22px;
+    left: 825px;
+    top: 359px;
+    
+    font-family: Product-sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+}
+.detail-container .right{
+    position: absolute;
+    height: 22px;
+    left: 1107px;
+    top: 359px;
+    
+    font-family: Product-sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+}
+.detail-container{
+    position: absolute;
+}
+.detail-container div div{
+    margin-top: 800px;
+    margin-left: 95px;
+}
+.donate-list{
+    margin-top: 10px !important;
+    width: 1045px;
+    height: 101px;
+    background: #FFFFFF;
+}
+.donate-list label{
+    position: absolute;
+    left: 207px;
+    margin-top: 10px;
+    
+    font-family: Product-sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center
+}
+.donate-list p{
+    position: absolute;
+    font-family: Avenir;
+    margin-top: 30px;
+    margin-left: 15px;
+    color: #000000;
+}
+.donate-list h5{
+    margin-left: 15px;
+    position: absolute;
+    font-family: Avenir;
+    color: #974A4A;
+    margin-top: 60px;
+}
